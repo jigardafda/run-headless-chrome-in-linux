@@ -34,6 +34,12 @@
 2. Install XVBF
   
     ```  
+    # yum install xorg-x11-server-Xvfb
+    ```
+    
+    to check info
+    
+    ```  
     # yum info xorg-x11-server-Xvfb
     ```
 
